@@ -1,2 +1,2 @@
-window.location.href = "http://www.google.com";
+window.location.href = "https://www.google.com";
 
